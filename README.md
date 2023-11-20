@@ -20,7 +20,7 @@ Our impact transcends solutions – it's about fostering growth. Projects we've 
 ### DeFi Development
 Embark on the DeFi journey with Rock'n'Block's Platforms Development. We specialize in crafting decentralized applications for lending, borrowing, yield farming, and more, reshaping financial paradigms.
 #### Decentralized Exchange Development
-As a leading blockchain firm, Rock'n'Block excels in creating solutions for decentralized exchanges. Our expertise spans concentrated liquidity DEX development, revolutionizing trading experiences, and perpetual DEX development, introducing innovative features.
+As a leading blockchain firm, Rock'n'Block excels in creating solutions for [decentralized exchange development](https://rocknblock.io/dex). Our expertise spans concentrated liquidity DEX development, revolutionizing trading experiences, and perpetual DEX development, introducing innovative features.
 #### Crypto Wallet Development
 Secure your cryptocurrencies with Rock'n'Block's Crypto Wallet Development. Execute transactions seamlessly, benefitting from unmatched asset protection. Trust us, a top-tier blockchain development company, to safeguard your digital wealth.
 #### Trading Bots Development
@@ -29,7 +29,7 @@ Lead trading bot development at Rock'n'Block, covering arbitrage, margin trading
 ### NFT Development Services
 Unlock NFT potential with Rock'n'Block's Platforms Development. We excel in creating diverse NFT solutions: NFT marketplaces, staking, fractional ownership, launchpads, and more, empowering creators and investors in the NFT universe.
 #### NFT Marketplace Development
-Embark on a transformative journey with Rock'n'Block's NFT Marketplace Development. Our expert team specializes in building NFT marketplaces for gaming, art, and general trades, enhancing experiences for gamers and artists alike.
+Embark on a transformative journey with Rock'n'Block's [NFT Marketplace Development](https://rocknblock.io/marketplace). Our expert team specializes in building NFT marketplaces for gaming, art, and general trades, enhancing experiences for gamers and artists alike.
 #### NFT Development
 Step into a realm of innovation with Rock'n'Block's NFT Development services. Beyond ERC1155 and ERC721 tokens, we craft dynamic NFTs, nested NFTs, SBO, and semi-fungible tokens, bridging the gap between digital and real-world assets.
 #### NFT Launchpad Development
@@ -83,5 +83,5 @@ Discover the boundless possibilities of blockchain technology with Rock'n'Block 
 
 Visit our website now to explore our comprehensive range of blockchain development services and take the first step towards reshaping the future of decentralized innovation. Let's embark on this transformative journey together!
 
-[Explore Now](https://www.rocknblock.io/)
+[Explore Now](https://rocknblock.io/)
 
