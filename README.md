@@ -38,7 +38,7 @@ Elevate your project with Rock'n'Block's NFT Launchpad Development. Our experts 
 Spearhead the convergence of gaming and finance with Rock'n'Block, creating immersive virtual worlds and play-to-earn ecosystems, revolutionizing user experiences.
 
 ### Smart Contracts Development Services
-Experience secure trading with Rock'n'Block's Smart Contracts for DEXs Development Services. We specialize in creating smart contracts fueling decentralized exchanges, enhancing liquidity management, order execution, and user experience.
+Experience secure trading with Rock'n'Block's [Smart Contracts for DEXs Development Services](https://rocknblock.io/smart-contract-development-company). We specialize in creating smart contracts fueling decentralized exchanges, enhancing liquidity management, order execution, and user experience.
 #### Smart Contracts for Wallets Development
 Empower digital assets management with Rock'n'Block's Smart Contracts for Wallets. Our experts design secure contracts enhancing crypto wallet functionality, including multi-signature support and asset management.
 #### Smart Contracts for Yield Farming
